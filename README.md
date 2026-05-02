@@ -1,2 +1,2 @@
 # Java
-Exercícios faculdade
+Exercícios práticos em Java
